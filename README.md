@@ -1,5 +1,5 @@
 # Horse-Racing-Trading
-![Horse Racing](Horse%20Racing/%20Horse%20Racing.jpg)
+![Horse Racing](Horse%20Racing/Horse%20Racing.jpg)
 
 The plot shows the portfolio value over time when applying the Bond Rotation strategy.
 
