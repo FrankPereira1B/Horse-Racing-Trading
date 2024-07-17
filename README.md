@@ -1,5 +1,5 @@
 # Horse-Racing-Trading
-![Horse Racing](Horse%20Racing/Horse%20Racing.jpg)
+![Horse Racing](Horse%20Racing/Horse%20Racing2.jpg)
 
 This repository provides Python code for analyzing financial time-series data and developing a trading strategy based on statistical analysis and indicators.
 
